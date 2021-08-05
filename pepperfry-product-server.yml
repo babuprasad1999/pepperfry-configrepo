@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/dpdb
+    username: root
+    password: lion
+  jpa:
+    generate-ddl: true
+    show-sql: true
