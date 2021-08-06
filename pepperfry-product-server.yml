@@ -6,4 +6,6 @@ spring:
     password: lion
   jpa:
     generate-ddl: true
-    show-sql: false
+    show-sql: true
+product:
+    defaultCategory: fashion
