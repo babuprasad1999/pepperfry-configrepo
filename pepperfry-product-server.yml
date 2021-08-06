@@ -5,5 +5,5 @@ spring:
     username: root
     password: lion
   jpa:
-    generate-ddl: false
+    generate-ddl: true
     show-sql: false
