@@ -6,4 +6,4 @@ spring:
     password: lion
   jpa:
     generate-ddl: false
-    show-sql: true
+    show-sql: false
